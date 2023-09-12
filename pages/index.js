@@ -4,7 +4,7 @@ const Home = () => {
   return(
     <AppLayout>
       <div>
-      Hello, Next!
+      Hello, Next!!!
       </div>
       </AppLayout>
   );
